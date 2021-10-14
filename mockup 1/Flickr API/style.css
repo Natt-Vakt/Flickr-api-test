@@ -20,7 +20,7 @@ header {
 }
 
 header h1 {
-    margin-left: 40px;
+    margin-left: 38px;
 }
 
 header form {
@@ -46,7 +46,7 @@ header form section input {
     box-sizing: border-box;
     border: 2px solid #ffffff;
     border-radius: 2px;
-    width: 150px;
+    width: 75px;
 }
 
 main {
